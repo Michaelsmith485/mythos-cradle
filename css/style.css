@@ -84,19 +84,7 @@ img{
     font-size: 20px;
     cursor: pointer;
 }
-.cart-count{
-    position: absolute;
-    top: -8px; right: -8px;
-    background: #15d5f5;
-    color: white;
-    font-size: 11px;
-    font-weight: 700;
-    width: 18px; height: 18px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 /*hero section*/
 .hero{
     position: relative;
